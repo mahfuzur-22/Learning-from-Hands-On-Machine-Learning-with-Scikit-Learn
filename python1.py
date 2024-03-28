@@ -1,5 +1,4 @@
-#mahfuz
-
+# This is interesting to see how function works
 
 
 #writing the code for finding factorial
