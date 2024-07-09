@@ -16,3 +16,4 @@ def factorial2(n):
 
 result2=factorial2(4)
 print("now factoria is:", result2) 
+# bangla
