@@ -17,3 +17,11 @@ def factorial2(n):
 result2=factorial2(4)
 print("now factoria is:", result2) 
 # bangla
+
+def addit (a,b):
+  ply=a+b
+  return ply
+
+k= addit (5,9)
+print ("sum is ", k)
+
